@@ -1,0 +1,11 @@
+[Activity]
+name = Edit
+bundle_id = org.laptop.Edit
+class = edit_app.EditActivity
+exec = sugar-activity edit_app.EditActivity
+icon = activity-icon
+activity_version = 8
+mime_types = text/plain;text/x-python;text/x-logo;text/x-svg;application/xml;text/html;text/xml;image/svg+xml;application/x-turtle-art
+show_launcher = yes
+host_version = 1
+license = GPLv2+

@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><!-- Created with Inkscape (http://www.inkscape.org/) --><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd' [
+	<!ENTITY stroke_color "#000000">
+	<!ENTITY fill_color "#ffffff">
+]><svg height="55px" id="svg2816" inkscape:version="0.47 r22583" sodipodi:docname="activity-icon.svg" version="1.1" width="55px" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs2818">
+    <inkscape:perspective id="perspective2824" inkscape:persp3d-origin="32 : 21.333333 : 1" inkscape:vp_x="0 : 32 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="64 : 32 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894-8" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894-9" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894-99" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894-2" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+    <inkscape:perspective id="perspective2894-3" inkscape:persp3d-origin="0.5 : 0.33333333 : 1" inkscape:vp_x="0 : 0.5 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="1 : 0.5 : 1" sodipodi:type="inkscape:persp3d"/>
+  </defs>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="text2967" inkscape:cx="29.154208" inkscape:cy="31.405853" inkscape:document-units="px" inkscape:grid-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-center="true" inkscape:snap-to-guides="false" inkscape:window-height="900" inkscape:window-maximized="0" inkscape:window-width="1200" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="13.436364" pagecolor="#ffffff" showgrid="true"/>
+  <metadata id="metadata2821">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1" transform="translate(0,-9)">
+    <rect height="43.486053" id="rect2881" style="fill:&fill_color;;fill-rule:evenodd;stroke:&stroke_color;;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" width="32.183304" x="11.408348" y="14.756973"/>
+    <text id="text2955" style="font-size:32.85882187px;font-style:normal;font-weight:normal;fill:&stroke_color;;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans" x="12.544024" xml:space="preserve" y="45.468788"><tspan id="tspan2957" sodipodi:role="line" x="12.544024" y="45.468788">a</tspan></text>
+    <g id="text2967" style="font-size:40px;font-style:normal;font-weight:normal;fill:&stroke_color;;fill-opacity:1;stroke:none;font-family:Nimbus Roman No9 L;-inkscape-font-specification:Nimbus Roman No9 L" transform="matrix(0.82147057,0,0,0.82147057,2.1164917,10.212942)">
+      <path d="m 40.061516,42.03079 c 0,4.556839 -1.609905,3.196231 -5.062687,3.378506 l 0,1.154399 12.208063,0 0,-1.154399 c -3.370573,-0.182287 -4.683506,0.981621 -4.683506,-3.453712 L 42.374009,22.015106 c 0,-4.435325 1.380103,-3.181368 4.832885,-3.424402 l 0,-1.154399 -12.208063,0 0,1.154399 c 3.493886,0.303799 4.994308,-1.118533 4.994308,3.377551" id="path2975" sodipodi:nodetypes="cccccccccccc" style="fill:&stroke_color;"/>
+    </g>
+  </g>
+</svg>
